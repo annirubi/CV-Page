@@ -57,4 +57,4 @@ In order to stylize the html file I used css and the following elements:
 
 Some new features can be added :sweat_smile:
 
-                   🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
+                                                        🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
